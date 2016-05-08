@@ -1,0 +1,25 @@
+{
+  "name": "wp-gulp-automation",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "marineGiraud <mgiraud.job@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "modernizr": "^3.3.1",
+    "bootstrap": "^3.3.6",
+    "masonry": "^4.1.0"
+  }
+}
